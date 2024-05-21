@@ -2,7 +2,9 @@
 
 # Projects
 ## Applications
-[Sunbird](https://github.com/jamadaha/Sunbird) - A UCI chess engine
+[Sunbird](https://github.com/jamadaha/Sunbird) - A UCI chess engine using Negamax search
+
+[Jarlo](https://github.com/jamadaha/Jarlo) - A UCI chess engine using Monte Carlo search
 
 [Seeker](https://github.com/jamadaha/seeker) - A PDDL planner
 
