@@ -8,6 +8,7 @@
 
 [sudokubrute](https://github.com/jamadaha/sudokubrute) - A Sudoku solver
 
+## Tools
 [labyr](https://github.com/jamadaha/labyr) - A PDDL benchmarker
 
 [perfbench](https://github.com/jamadaha/perfbench) - A chess perft benchmarker
