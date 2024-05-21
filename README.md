@@ -4,11 +4,11 @@
 ## Applications
 [Sunbird](https://github.com/jamadaha/Sunbird) - A UCI chess engine using Negamax search
 
+[sudokubrute](https://github.com/jamadaha/sudokubrute) - A Sudoku solver
+
 [Jarlo](https://github.com/jamadaha/Jarlo) - A UCI chess engine using Monte Carlo search
 
-[Seeker](https://github.com/jamadaha/seeker) - A PDDL planner
-
-[sudokubrute](https://github.com/jamadaha/sudokubrute) - A Sudoku solver
+[seeker](https://github.com/jamadaha/seeker) - A PDDL planner
 
 ## Tools
 [labyr](https://github.com/jamadaha/labyr) - A PDDL benchmarker
