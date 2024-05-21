@@ -22,3 +22,6 @@
 
 ## Parsers
 [pddlp](https://github.com/jamadaha/pddlp) - A PDDL parser
+
+## Misc
+[.dotfiles](https://github.com/jamadaha/.dotfiles)
