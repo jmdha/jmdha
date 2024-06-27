@@ -10,6 +10,8 @@
 
 [seeker](https://github.com/jamadaha/seeker) - A PDDL planner
 
+[shapeon](https://github.com/jamadaha/shapeon) - A time series preprocessor
+
 ## Tools
 [labyr](https://github.com/jamadaha/labyr) - A PDDL benchmarker
 
