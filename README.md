@@ -6,7 +6,7 @@
 
 [sudokubrute](https://github.com/jamadaha/sudokubrute) - A Sudoku solver
 
-[Jarlo](https://github.com/jamadaha/Jarlo) - A UCI chess engine using Monte Carlo search
+[jarlo](https://github.com/jamadaha/jarlo) - A UCI chess engine using Monte Carlo search
 
 [seeker](https://github.com/jamadaha/seeker) - A PDDL planner
 
