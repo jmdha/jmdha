@@ -6,8 +6,6 @@
 
 [sudokubrute](https://github.com/jamadaha/sudokubrute) - A Sudoku solver
 
-[jarlo](https://github.com/jamadaha/jarlo) - A UCI chess engine using Monte Carlo search
-
 [seeker](https://github.com/jamadaha/seeker) - A PDDL planner
 
 [shapeon](https://github.com/jamadaha/shapeon) - A time series preprocessor
