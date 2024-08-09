@@ -2,24 +2,26 @@
 
 # Projects
 ## Applications
-[Sunbird](https://github.com/jamadaha/Sunbird) - A UCI chess engine using Negamax search
+[Sunbird](https://github.com/jmdha/Sunbird) - A UCI chess engine using Negamax search in C++
 
-[sudokubrute](https://github.com/jamadaha/sudokubrute) - A Sudoku solver
+[motsog](https://github.com/jmdha/motsog) - A UCI chess engine using Negamax search in C
 
-[seeker](https://github.com/jamadaha/seeker) - A PDDL planner
+[sudokubrute](https://github.com/jmdha/sudokubrute) - A Sudoku solver
 
-[shapeon](https://github.com/jamadaha/shapeon) - A time series preprocessor
+[seeker](https://github.com/jmdha/seeker) - A PDDL planner
+
+[shapeon](https://github.com/jmdha/shapeon) - A time series preprocessor
 
 ## Tools
-[labyr](https://github.com/jamadaha/labyr) - A PDDL benchmarker
+[labyr](https://github.com/jmdha/labyr) - A PDDL benchmarker
 
-[perfbench](https://github.com/jamadaha/perfbench) - A chess perft benchmarker
+[perfbench](https://github.com/jmdha/perfbench) - A chess perft benchmarker
 
 ## Libraries
-[pddllib](https://github.com/jamadaha/pddllib) - A PDDL state and move generation library
+[pddllib](https://github.com/jmdha/pddllib) - A PDDL state and move generation library
 
 ## Parsers
-[pddlp](https://github.com/jamadaha/pddlp) - A PDDL parser
+[pddlp](https://github.com/jmdha/pddlp) - A PDDL parser
 
 ## Misc
-[.dotfiles](https://github.com/jamadaha/.dotfiles)
+[.dotfiles](https://github.com/jmdha/.dotfiles)
