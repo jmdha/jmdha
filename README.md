@@ -21,6 +21,7 @@
 
 ## Libraries
 [pddllib](https://github.com/jmdha/pddllib) - A PDDL state and move generation library
+[jset](https://github.com/jmdha/jset) - A single-header set implementation in C
 
 ## Parsers
 [pddlp](https://github.com/jmdha/pddlp) - A PDDL parser
