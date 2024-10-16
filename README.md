@@ -17,7 +17,7 @@
 
 [perfbench](https://github.com/jmdha/perfbench) - A chess perft benchmarker
 
-[lichess data download](https://github.com/jmdha/lichess_data_download) - Downloads, filters, and extracts chess games from Lichess.org
+[lidata](https://github.com/jmdha/lidata) - Downloads, filters, and extracts chess games from Lichess.org
 
 ## Libraries
 [pddllib](https://github.com/jmdha/pddllib) - A PDDL state and move generation library
