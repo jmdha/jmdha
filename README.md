@@ -12,6 +12,8 @@
 
 [shapeon](https://github.com/jmdha/shapeon) - A time series preprocessor
 
+[libot](https://github.com/jmdha/libot) - A chess bot for lichess.org
+
 ## Tools
 [labyr](https://github.com/jmdha/labyr) - A PDDL benchmarker
 
