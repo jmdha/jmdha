@@ -2,32 +2,32 @@
 
 # Projects
 ## Applications
-[Sunbird](https://github.com/jmdha/Sunbird) - A UCI chess engine using Negamax search in C++
+[Sunbird](https://github.com/jmdha/Sunbird)(C++) - A UCI chess engine using Negamax search in C++
 
-[motsog](https://github.com/jmdha/motsog) - A UCI chess engine using Negamax search in C
+[motsog](https://github.com/jmdha/motsog)(C) - A UCI chess engine using Negamax search in C
 
-[sudokubrute](https://github.com/jmdha/sudokubrute) - A Sudoku solver
+[sudokubrute](https://github.com/jmdha/sudokubrute)(Rust) - A Sudoku solver
 
-[seeker](https://github.com/jmdha/seeker) - A PDDL planner
+[seeker](https://github.com/jmdha/seeker)(Rust) - A PDDL planner
 
-[shapeon](https://github.com/jmdha/shapeon) - A time series preprocessor
+[shapeon](https://github.com/jmdha/shapeon)(C) - A time series preprocessor
 
-[libot](https://github.com/jmdha/libot) - A chess bot for lichess.org
+[libot](https://github.com/jmdha/libot)(Go) - A chess bot for lichess.org
 
 ## Tools
-[labyr](https://github.com/jmdha/labyr) - A PDDL benchmarker
+[labyr](https://github.com/jmdha/labyr)(Rust) - A PDDL benchmarker
 
-[perfbench](https://github.com/jmdha/perfbench) - A chess perft benchmarker
+[perfbench](https://github.com/jmdha/perfbench)(Rust) - A chess perft benchmarker
 
-[lidata](https://github.com/jmdha/lidata) - Downloads, filters, and extracts chess games from Lichess.org
+[lidata](https://github.com/jmdha/lidata)(C++) - Downloads, filters, and extracts chess games from Lichess.org
 
 ## Libraries
-[pddllib](https://github.com/jmdha/pddllib) - A PDDL state and move generation library
+[pddllib](https://github.com/jmdha/pddllib)(C++) - A PDDL state and move generation library
 
-[jset](https://github.com/jmdha/jset) - A single-header set implementation in C
+[jset](https://github.com/jmdha/jset)(C) - A single-header set implementation in C
 
 ## Parsers
-[pddlp](https://github.com/jmdha/pddlp) - A PDDL parser
+[pddlp](https://github.com/jmdha/pddlp)(Rust) - A PDDL parser
 
 ## Misc
 [.dotfiles](https://github.com/jmdha/.dotfiles)
