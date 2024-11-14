@@ -2,17 +2,17 @@
 
 # Projects
 ## Applications
-[Sunbird](https://github.com/jmdha/Sunbird)(C++) - A UCI chess engine using Negamax search in C++
+[seeker](https://github.com/jmdha/seeker)(Rust) - A PDDL planner
 
 [motsog](https://github.com/jmdha/motsog)(C) - A UCI chess engine using Negamax search in C
 
 [sudokubrute](https://github.com/jmdha/sudokubrute)(Rust) - A Sudoku solver
 
-[seeker](https://github.com/jmdha/seeker)(Rust) - A PDDL planner
-
 [shapeon](https://github.com/jmdha/shapeon)(C) - A time series preprocessor
 
 [libot](https://github.com/jmdha/libot)(Go) - A chess bot for lichess.org
+
+[Sunbird](https://github.com/jmdha/Sunbird)(C++) - A UCI chess engine using Negamax search in C++
 
 ## Tools
 [labyr](https://github.com/jmdha/labyr)(Rust) - A PDDL benchmarker
