@@ -2,9 +2,11 @@
 
 # Projects
 ## Applications
+[motsog](https://github.com/jmdha/motsog)(C) - A UCI chess engine using Negamax search in C
+
 [seeker](https://github.com/jmdha/seeker)(Rust) - A PDDL planner
 
-[motsog](https://github.com/jmdha/motsog)(C) - A UCI chess engine using Negamax search in C
+[rinth](https://github.com/jmdha/rinth)(C) - A simple PDDL planner
 
 [sudokubrute](https://github.com/jmdha/sudokubrute)(Rust) - A Sudoku solver
 
