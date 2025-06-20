@@ -19,11 +19,13 @@
 ## Tools
 [labyr](https://github.com/jmdha/labyr)(Rust) - A PDDL benchmarker
 
-[perfbench](https://github.com/jmdha/perfbench)(Rust) - A chess perft benchmarked
+[perfbench](https://github.com/jmdha/perfbench)(Rust) - A chess perft benchmarker
 
 [lidata](https://github.com/jmdha/lidata)(C++) - Downloads, filters, and extracts chess games from Lichess.org
 
 [unplot](https://github.com/jmdha/unplot)(C) - Convert plot to series
+
+[ARD](https://github.com/jmdha/ARD)(C) - Splits a map into sections/rooms
 
 ## Libraries
 [pddllib](https://github.com/jmdha/pddllib)(C++) - A PDDL state and move generation library
