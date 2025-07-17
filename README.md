@@ -28,7 +28,7 @@
 [ARD](https://github.com/jmdha/ARD)(C) - Splits a map into sections/rooms
 
 ## Libraries
-[pddllib](https://github.com/jmdha/pddllib)(C++) - A PDDL state and move generation library
+[pddllib](https://github.com/jmdha/pddllib)(Rust) - A PDDL state and move generation library
 
 [jset](https://github.com/jmdha/jset)(C) - A single-header set implementation in C
 
