@@ -16,6 +16,9 @@
 
 [Sunbird](https://github.com/jmdha/Sunbird)(C++) - A UCI chess engine using Negamax search in C++
 
+## Embedded
+[chesstv](https://github.com/jmdha/chesstv)(C, ESP32, FreeRTOS) - A lichess.org livestream to led-matrix
+
 ## Tools
 [labyr](https://github.com/jmdha/labyr)(Rust) - A PDDL benchmarker
 
