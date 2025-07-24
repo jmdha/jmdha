@@ -31,12 +31,11 @@
 [ARD](https://github.com/jmdha/ARD)(C) - Splits a map into sections/rooms
 
 ## Libraries
+[pddlp](https://github.com/jmdha/pddlp)(Rust) - A PDDL parser
+
 [pddllib](https://github.com/jmdha/pddllib)(Rust) - A PDDL state and move generation library
 
 [jset](https://github.com/jmdha/jset)(C) - A single-header set implementation in C
-
-## Parsers
-[pddlp](https://github.com/jmdha/pddlp)(Rust) - A PDDL parser
 
 ## Misc
 [.dotfiles](https://github.com/jmdha/.dotfiles)
