@@ -4,13 +4,17 @@
 ## Applications
 [motsog](https://github.com/jmdha/motsog)(C) - A UCI chess engine using Negamax search in C
 
-[seeker](https://github.com/jmdha/seeker)(Rust) - A PDDL planner
-
 [rinth](https://github.com/jmdha/rinth)(C) - A simple PDDL planner
+
+[srss](https://github.com/jmdha/srss)(C) - A 150 LOC smoke simluation
+
+[shapeon](https://github.com/jmdha/shapeon)(C) - A time series preprocessor
+
+[seeker](https://github.com/jmdha/seeker)(Rust) - A PDDL planner
 
 [sudokubrute](https://github.com/jmdha/sudokubrute)(Rust) - A Sudoku solver
 
-[shapeon](https://github.com/jmdha/shapeon)(C) - A time series preprocessor
+[detf](https://github.com/jmdha/detf)(Go) - A distributed engine testing framework
 
 [libot](https://github.com/jmdha/libot)(Go) - A chess bot for lichess.org
 
