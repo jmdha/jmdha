@@ -10,6 +10,8 @@
 
 [shapeon](https://github.com/jmdha/shapeon)(C) - A time series preprocessor
 
+[globe](https://github.com/jmdha/globe)(C) - A 3d render of the earth
+
 [seeker](https://github.com/jmdha/seeker)(Rust) - A PDDL planner
 
 [sudokubrute](https://github.com/jmdha/sudokubrute)(Rust) - A Sudoku solver
