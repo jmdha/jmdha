@@ -37,6 +37,8 @@
 [ARD](https://github.com/jmdha/ARD)(C) - Splits a map into sections/rooms
 
 ## Libraries
+[geol](https://github.com/jmdha/geol)(C) - A set of single-header libraries for geometry
+
 [pddlp](https://github.com/jmdha/pddlp)(Rust) - A PDDL parser
 
 [pddllib](https://github.com/jmdha/pddllib)(Rust) - A PDDL state and move generation library
