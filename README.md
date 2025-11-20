@@ -23,7 +23,7 @@
 [Sunbird](https://github.com/jmdha/Sunbird)(C++) - A UCI chess engine using Negamax search in C++
 
 ## Dashboards
-[edd](https://github.com/jmdha/edd) - A real time dashboard (1 min) of energy distbution in Denmark
+[edd](https://github.com/jmdha/edd)(Python, Dash) - A real time dashboard (1 min) of energy distbution in Denmark
 
 ## Embedded
 [chesstv](https://github.com/jmdha/chesstv)(C, ESP32, FreeRTOS) - A lichess.org livestream to led-matrix
