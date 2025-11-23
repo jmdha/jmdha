@@ -23,6 +23,7 @@
 [Sunbird](https://github.com/jmdha/Sunbird)(C++) - A UCI chess engine using Negamax search in C++
 
 ## Dashboards
+[fviz](https://github.com/jmdha/fviz)(Python, Flask) - An analysis of the frequency in which cities are mentioned in the news. 
 [edd](https://github.com/jmdha/edd)(Python, Dash) - A real time dashboard (1 min) of energy distbution in Denmark
 
 ## Embedded
